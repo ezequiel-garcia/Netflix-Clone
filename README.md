@@ -1,3 +1,6 @@
+# Take a look online 
+https://netflix-clone-aa5a0.web.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
